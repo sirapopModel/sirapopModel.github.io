@@ -1,12 +1,8 @@
 ## ABOUT ME
 
-Name: Sirapop Huangwilai              ## Education
+Name: Sirapop Huangwilai | NickName : Model
 
-NickName : Model
-
-Country : Thailand  
-
-Aged : 19
+Aged : 19 | Country : Thailand 
 
 ### MY PICTURE
 <img src="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3.jpeg" alt="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3" width="250" height="350"/>
