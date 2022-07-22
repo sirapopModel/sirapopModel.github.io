@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Name: Sirapop Huangwilai
+Name: Sirapop Huangwilai              ## Education
 
 NickName : Model
 
