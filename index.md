@@ -8,4 +8,4 @@ Aged : 19
 
 ### MY PICTURE
 
-![alt text](/sirapopModel/sirapopModel/1e2798a96f615f684cc7b1f305c4b53b792b09fa.jpeg)
+![alt text](sirapopModel.github.io/89A5B02F-567A-47B1-BF45-5FD1DC1D20C3.jpeg)
