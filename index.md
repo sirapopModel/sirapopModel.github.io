@@ -1,7 +1,7 @@
 ## HELLO WORLD
 
-Name: Sirapop Huangwilai |  NickName : Model
-Country : Thailand       |  Aged : 19
+Name: Sirapop Huangwilai | NickName : Model
+Country : Thailand | Aged : 19
 
 ### MY PICTURE
 
