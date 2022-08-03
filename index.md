@@ -9,8 +9,8 @@ Hobby: playing a guitar
 
 | Level | Name | Year | Emblem |
 | :----: | :----: | :----: | :----: |
-| Primary 1 - Secondary 6 | Assumption Samtprakarn | 2008 - 2020 | <img src="/photo/Me/Logo_ACSP.png" alt="Cute_boy" width="75" height="75"/> |
-| College for Bachelor's degree | King Mongkut's University of Technology North Bangkok | 2020 - Now | <img src="/photo/Me/Seal_of_KMUTNB.svg.png" alt="Cute_boy" width="75" height="75"/> |
+| Primary 1 - Secondary 6 | Assumption Samtprakarn | 2008 - 2020 | <img src="/photo/Me/Logo_ACSP.png" alt="Cute_boy" width="50" height="50"/> |
+| College for Bachelor's degree | King Mongkut's University of Technology North Bangkok | 2020 - Now | <img src="/photo/Me/Seal_of_KMUTNB.svg.png" alt="Cute_boy" width="50" height="50"/> |
 
 ## MY PICTURE
 
