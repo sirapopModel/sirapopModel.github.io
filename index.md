@@ -1,6 +1,8 @@
 # ABOUT ME
 Name: Sirapop Huangwilai (NickName : Model)
+
 Aged : 19
+
 Hobby: playing a guitar 
 
 # Graduated
