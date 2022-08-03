@@ -6,6 +6,7 @@ Aged : 19
 Hobby: playing a guitar 
 
 # Graduated
+
 | Level | Name | Year | Emblem |
 | :----: | :----: | :----: | :----: |
 | Primary 1 - Secondary 6 | Assumption Samtprakarn | 2008 - 2020 | - |
