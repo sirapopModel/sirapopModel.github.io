@@ -15,4 +15,4 @@ Aged : 19 | Country : Thailand
 <img src="F2C6F2CF-1D32-4B7C-8A96-694B54DA9E94.png" alt="Tel" width="15" height="15"/> : 095-525-2546
 
 
-[Linux-Tutorial](https://sirapopModel.github.io/sirapopModel.github.io/linux_tutorial.md)
+[Linux-Tutorial](https://sirapopModel.github.io/sirapopModel.github.io/linux_tutorial.html)
