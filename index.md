@@ -3,6 +3,12 @@
 Name: Sirapop Huangwilai | NickName : Model
 Aged : 19 | Country : Thailand 
 
+# Graduated
+Level | Name | Year
+:---:|:----:|:----:
+Primary 1 - Secondary 6 | Assumption Samtprakarn | 2008-2020
+College for Bachelor's degree | King Mongkut's University of Technology North Bangkok 
+
 ## MY PICTURE
 <img src="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3.jpeg" alt="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3" width="250" height="350"/> | [more about me](www.google.com)
 
