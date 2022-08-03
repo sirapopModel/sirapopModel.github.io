@@ -2,4 +2,5 @@
 layout: default
 title: Linux Tutorial
 ---
-Linux Tutorial
+# install linux with parallel
+
