@@ -7,7 +7,7 @@ Hobby: playing a guitar
 
 # Graduated
 | Level | Name | Year | 
-| :---:|:----:|:----: |
+| :---: | :----: | :----: |
 | Primary 1 - Secondary 6 | Assumption Samtprakarn | 2008 - 2020 | 
 | College for Bachelor's degree | King Mongkut's University of Technology North Bangkok | 2020 - Now |
 
