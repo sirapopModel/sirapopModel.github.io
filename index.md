@@ -21,5 +21,6 @@ College for Bachelor's degree | King Mongkut's University of Technology North Ba
 <img src="AFCC47CB-ECF9-4EB5-B102-F4ABBCA49017.png" alt="line" width="15" height="15"/> id:modelengna
 <img src="F2C6F2CF-1D32-4B7C-8A96-694B54DA9E94.png" alt="Tel" width="15" height="15"/> : 095-525-2546
 
+# Homework Progress
 
-[Linux-Tutorial](https://sirapopmodel.github.io/linux_tutorial.html)
+## Assignment 1 : [Linux-Tutorial](https://sirapopmodel.github.io/linux_tutorial.html)
