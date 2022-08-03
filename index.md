@@ -10,6 +10,7 @@ Hobby: playing a guitar
 | :---:|:----:|:----: |
 | Primary 1 - Secondary 6 | Assumption Samtprakarn | 2008 - 2020 | 
 | College for Bachelor's degree | King Mongkut's University of Technology North Bangkok | 2020 - Now |
+
 ## MY PICTURE
 <img src="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3.jpeg" alt="Cute_boy" width="250" height="350"/>|<img src="/photo/Me/IMG_4362.JPG" alt="V_boy" width="250" height="350"/>|<img src="/photo/Me/IMG_4433.JPG" alt="kittyboy" width="275" height="350"/>
 
