@@ -1,6 +1,7 @@
 # ABOUT ME
 
 Name: Sirapop Huangwilai | NickName : Model
+:-----------------------: | :----------------:
 Aged : 19 | Country : Thailand 
 
 ## MY PICTURE
