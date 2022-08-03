@@ -1,7 +1,7 @@
 # ABOUT ME
-:-----------------------: | :----------------:
-Name: Sirapop Huangwilai | NickName : Model
-Aged : 19 | Country : Thailand 
+Name: Sirapop Huangwilai (NickName : Model)
+Aged : 19
+Hobby: playing a guitar 
 
 # Graduated
 Level | Name | Year
