@@ -13,7 +13,7 @@ title: Linux Tutorial
  </p>
 <h5 align = 'center'> 1.1) </h5>
 
-##### cd command is an abbreviation for ‘change directory’.
+#### cd command is an abbreviation for ‘change directory’.
 
 <p align="center">
  <img src="/photo/Assignment1/Command/cd1.png" alt="Cute_boy" width="600" height="400"/>
