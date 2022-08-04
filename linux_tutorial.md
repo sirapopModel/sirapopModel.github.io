@@ -4,7 +4,7 @@ title: Linux Tutorial
 ---
 ## Install Linux with Parallel Desktop
 
-## Ubuntu Linux terminal command practice
+## Ubuntu terminal command practice
 
 #### pwd command is an abbreviation of ‘print working directory’
 
@@ -30,5 +30,24 @@ title: Linux Tutorial
   <img src="/photo/Assignment1/Command/cd:.png" alt="Cute_boy" width="600" height="400"/>
  </p>
 <h5 align = 'center'> 2.3) cd / means 'change directory to root directory ' </h5>
+
+<p align="center">
+  <img src="/photo/Assignment1/Command/cd...png" alt="Cute_boy" width="600" height="400"/>
+ </p>
+<h5 align = 'center'> 
+  2.3) cd .. means 'back to outside directory ' and cd ../.. mean 'back 2 time'
+</h5>
+
+####  whoami is command for show your current username.
+<p align="center">
+ <img src="/photo/Assignment1/Command/whoami.png" alt="Cute_boy" width="600" height="400"/>
+</p>
+<h5 align = 'center'> 3.1) </h5>
+
+#### ls is command for showing list of item in directory.
+<p align="center">
+ <img src="/photo/Assignment1/Command/ls.png" alt="Cute_boy" width="600" height="400"/>
+</p>
+<h5 align = 'center'> 4.1) </h5>
 
 
