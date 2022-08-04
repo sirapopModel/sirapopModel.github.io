@@ -2,9 +2,9 @@
 layout: default
 title: Linux Tutorial
 ---
-## Install Linux with Parallel Desktop
-
 ## Ubuntu terminal command practice
+
+I learn and practice with [this](https://www.tutorialspoint.com/unix/unix-useful-commands.htm).
 
 #### pwd command is an abbreviation of ‘print working directory’
 
@@ -49,5 +49,10 @@ title: Linux Tutorial
  <img src="/photo/Assignment1/Command/ls.png" alt="Cute_boy" width="800" height="600"/>
 </p>
 <h5 align = 'center'> 4.1) </h5>
+
+<p align="center">
+ <img src="/photo/Assignment1/Command/ls>.png" alt="Cute_boy" width="800" height="600"/>
+</p>
+<h5 align = 'center'> 4.2)" ls > Text.txt " mean making file (you can add path like something..../ Text.txt ) </h5>
 
 
