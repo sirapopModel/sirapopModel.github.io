@@ -7,11 +7,11 @@
 
 ## Graduated
 
-| Primary 1 - Secondary 6 | Bachelor's degree |
+| Primary 1 - Secondary 6 | Now Study for Bachelor's degree |
 | :----: | :----: |
 | <img src="/photo/Me/Logo_ACSP.png" alt="Cute_boy" width="200" height="150"/> | <img src="/photo/Me/Seal_of_KMUTNB.svg.png" alt="Cute_boy" width="200" height="200"/> |
 | Assumption Samutprakarn | King Mongkut's University of Technology North Bangkok  |
-| 2008 - 2020 | 2021 - 2022 |
+| 2008 - 2020 | 2021 - Now |
 
 ## MY PICTURE
 
