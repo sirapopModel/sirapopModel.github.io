@@ -6,8 +6,8 @@ title: Linux Tutorial
 
 # Ubuntu Linux terminal command practice
 
-## cd
+## pwd is s an abbreviation of ‘print working directory’
 
 <p align="center">
-  <img src="/photo/Me/Logo_ACSP.png" alt="Cute_boy" width="200" height="200"/>
+  <img src="/photo/Assignment1/Command/pwd.png" alt="Cute_boy" width="600" height="400"/>
  </p>
