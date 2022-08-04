@@ -15,7 +15,10 @@
 
 ## MY PICTURE
 
-<img src="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3.jpeg" alt="Cute_boy" width="250" height="350"/>|<img src="/photo/Me/IMG_4362.JPG" alt="V_boy" width="250" height="350"/>|<img src="/photo/Me/IMG_4433.JPG" alt="kittyboy" width="275" height="350"/>
+<p align = 'center'>
+ <img src="89A5B02F-567A-47B1-BF45-5FD1DC1D20C3.jpeg" alt="Cute_boy" width="250" height="350"/>
+ <img src="/photo/Me/IMG_4362.JPG" alt="V_boy" width="250" height="350"/>
+</p>
 
 ## Contract
 
