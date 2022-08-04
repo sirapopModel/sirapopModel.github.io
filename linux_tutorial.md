@@ -18,7 +18,7 @@ title: Linux Tutorial
 <p align="center">
  <img src="/photo/Assignment1/Command/cd1.png" alt="Cute_boy" width="600" height="400"/>
 </p>
-<h5 align = 'center'> 2.1) </h4>
+<h5 align = 'center'> 2.1) </h5>
 <h5 align = 'center'> The current working directory is the directory in which the user is currently working in. </h5>
 
  <p align="center">
@@ -29,4 +29,6 @@ title: Linux Tutorial
  <p align="center">
   <img src="/photo/Assignment1/Command/cd:.png" alt="Cute_boy" width="600" height="400"/>
  </p>
-<h5 align = 'center'> 2.3) cd / means 'change directory to root directory ' </h5> 
+<h5 align = 'center'> 2.3) cd / means 'change directory to root directory ' </h5>
+
+
