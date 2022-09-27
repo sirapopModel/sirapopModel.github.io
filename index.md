@@ -33,4 +33,4 @@
 # Homework Progress
 
 ## Assignment 1 : [Linux-Tutorial](https://sirapopmodel.github.io/linux_tutorial.html)
-## อาดุยโน่ changing LED Pattern : [ไปกันเลย](https://sirapopmodel.github.io/photo/test.html)
+## อาดุยโน่ changing LED Pattern : [ไปกันเลย!!!](https://sirapopmodel.github.io/Arduino_LED.html)
