@@ -4,7 +4,9 @@ title: Arduino_LED.md
 ---
 # Pattern A
 
-
+<p align="center">
+  <img src="/photo/Arduino_Pattern/PatternA.png" alt="Cute_boy" width="800" height="600"/>
+ </p>
 
 ## Step 1. Initially, only one LED (at index=0) is ON, and the rest of the LEDs are OFF. 
 
