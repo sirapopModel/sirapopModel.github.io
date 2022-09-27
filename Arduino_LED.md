@@ -28,7 +28,7 @@ title: Arduino_LED.md
 
 ## Step 4. If all LEDs are ON, turn off LEDs one-by-one by decreasing the duty cycles of the PWM signals until all LEDs are OFF and repeat Steps 2-4.
 
-#PatternD
+# PatternD
 
 ## Step 1. Initially, all LEDs are OFF. 
 
