@@ -5,7 +5,7 @@
 
 #### Hobby: playing a guitar 
 
-## Graduated
+## Education
 
 | Primary 1 - Secondary 6 | Bachelor's degree |
 | :----: | :----: |
