@@ -17,6 +17,7 @@
 <p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/15.png" alt="Raspbian" width="800" height="600"/> </p>
 <p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/16.png" alt="Raspbian" width="800" height="600"/> </p>
 <p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/17.png" alt="Raspbian" width="800" height="600"/> </p>
+<p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/Screen Shot 2565-10-23 at 12.08.23.png" alt="Raspbian" width="800" height="600"/> </p>
 <p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/18.png" alt="Raspbian" width="800" height="600"/> </p>
 <p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/19.png" alt="Raspbian" width="800" height="600"/> </p>
 <p align="center"> <img src="/photo/mini_project_img/Rasbian_parallels/20.png" alt="Raspbian" width="800" height="600"/> </p>
